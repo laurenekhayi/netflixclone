@@ -28,13 +28,14 @@
 
 .introsection h1{
 font-weight: 900;
-font-size: 40px;
+font-size: 70px;
+
 
 }
 
 .introsection p{
     font-weight: 500;
-    
+    font-size: 20px;
     }
 
  .form{
@@ -43,4 +44,14 @@ font-size: 40px;
 
  .introsection{
     height:700px
+ }
+
+ .box{
+   border: 1px solid black;
+   margin-left: 50px;
+   border-radius: 10px;
+ }
+
+ .blockclass{
+   display: inline;
  }
