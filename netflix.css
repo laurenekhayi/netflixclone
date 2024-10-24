@@ -1,0 +1,46 @@
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    maximum max-width: 1200px;
+    padding: 10px 20px;
+    margin: 0 auto;  
+ }
+ 
+
+ .logo {
+    
+ }
+ .body{
+    align-items: center;
+ }
+ .recently-added{
+    display: flex;
+
+ }
+ .alignment{
+    display: flex;
+    gap: 25px;
+    width: 200px;
+    height: 300px;
+ }
+
+.introsection h1{
+font-weight: 900;
+font-size: 40px;
+
+}
+
+.introsection p{
+    font-weight: 500;
+    
+    }
+
+ .form{
+    margin-left: 500px;
+ }
+
+ .introsection{
+    height:700px
+ }
